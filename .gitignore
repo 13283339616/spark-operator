@@ -1,0 +1,11 @@
+bin/
+vendor/
+cover.out
+sparkctl/sparkctl
+sparkctl/sparkctl-linux-amd64
+sparkctl/sparkctl-darwin-amd64
+**/*.iml
+
+# Various IDEs
+.idea/
+.vscode/
